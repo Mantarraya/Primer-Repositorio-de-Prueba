@@ -3,7 +3,7 @@
 ¿Como trabajar con un repositorio de GitHub desde Linux?
 
 - Creamos un nuevo repositorio en nuestra cuenta de GitHub.
-- Desde la terminal, clonamos el repositorio en la carpeta deseada.
+- Desde el terminal, clonamos el repositorio en la carpeta deseada.
 
 ```sh
      $ git clone [url]
